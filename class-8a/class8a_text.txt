@@ -1,0 +1,27 @@
+1.what is pandas library in python?
+
+1.pandas is a python library used for working with data sets. 
+2.it has functions for analyzing,cleaning,exploring,and manipulating data.
+
+2.How to install library in python?
+1.Any python library cab be installed manually in just one step using the command.
+2.Python3<FILE_NAME>.PY install.The command pip install package_name is used in python to install libraries using scripts.
+3.programmers can also use the pip command to uninstall python libraries.
+
+3.What is package in pandas library?
+1.Pandas is a python package providing fast,flexible,and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
+2.It aims to be the fundamental high-level building block for doing practical,real-world data analysis in python 
+
+
+4.What are delimiter files?
+1.A delimiter file is a sequential file with column delimiters.Each delimiter file is a stream of records,which consists of field that are ordered by column.
+2.Each record contains fields for one row.Within each row,individual fields are seperated by column delimiters.
+
+5.Write some delimiter files?
+1.Comma seperated values
+1.A comma seperated values file is a delimited text that uses a comma to seperate values.
+2.Each line of the file is a data record.
+
+2.Tab seperated values 
+1.Tab seperated values is a example, text based file format for storing tabular data.
+2.Records are seperated by newlines and values within a record  are seperated by tab characters.
