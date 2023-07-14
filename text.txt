@@ -1,0 +1,13 @@
+1.What is excel.file
+ 
+1.Excel is a spreadsheet program from microsoft and a component of its office product group for business applications.
+2.microsoft excel enables users to format,organize and calculate data in a spreadsheet.
+
+2.Why we use excel file?
+1.Microsoft excel enables users to format,organize and calculate data in a spreadsheet.
+2.By organizing data using software like excel,data analysts and others users can make information easier to view as data is added or changed.
+
+
+3.Difference between .xls and .xlsx file?
+1.The main comparison between these two files is that XLS uses the standard binary format.
+2.while XLSX applies the updated version that is based on the format of XML.
